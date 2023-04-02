@@ -121,7 +121,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue);
-
 }
 .header-link:hover {
   color: #404bbf;
@@ -140,7 +139,7 @@ body {
 .header-item {
 }
 .contact {
-   font-style: normal
+  font-style: normal;
 }
 .contact-list {
 }
@@ -318,16 +317,17 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: var(--color-cloud)
+  color: var(--color-iris);
+  background-color: var(--color-cloud);
   cursor: pointer;
 }
 .btm:hover {
-color: #FFFFFF;
-background-color: #404BBF;
+  color: #ffffff;
+  background-color: #404bbf;
 }
-.btm:focus{
-color: #FFFFFF;
-background-color: #404BBF;
+.btm:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 .portfolio-title {
   font-weight: 500;
