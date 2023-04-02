@@ -148,6 +148,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
+.contact-link {
+  color: var(--color-slate);
+}
 .contact-link:hover {
   color: #404bbf;
 }
@@ -285,7 +288,7 @@ body {
 .menu-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--color-slate);
+  color: var(--color-navy-blue);
 }
 .menu-link:hover {
   color: #404bbf;
