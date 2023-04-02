@@ -259,6 +259,17 @@ body {
 }
 .header-studio {
 }
+.menu-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-slate);
+}
+.menu-link:hover {
+  color: #404bbf;
+}
+.menu-link:focus {
+  color: #404bbf;
+}
 .menu-list {
 }
 .list {
