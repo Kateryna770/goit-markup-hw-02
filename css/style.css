@@ -227,12 +227,12 @@ body {
 .studio-item {
 }
 
-/* Portfolio section */
+/* Team section */
 
-.portfolio-section {
+.team-section {
   background-color: #f4f4fd;
 }
-.portfolio-title {
+.team-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -240,19 +240,19 @@ body {
   text-transform: capitalize;
   color: var(--color-grey);
 }
-.portfolio-list {
+.team-list {
 }
-.portfolio-item {
+.team-item {
   background-color: #ffffff;
 }
-.portfolio-name {
+.team-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue);
 }
-.portfolio-uperrtitle {
+.team-uperrtitle {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
