@@ -92,7 +92,7 @@
   text-decoration: underline;
   text-transform: none;
 }
-.resset .link {
+.link {
   text-decoration: none;
 }
 
@@ -192,7 +192,7 @@
 /* Footer section */
 
 .footer {
-  background-color: #2e2f42;
+  background-color: var(--color-grey);
 }
 .footer-link {
   font-family: "Raleway", sans-serif;
@@ -201,7 +201,6 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
   color: var(--color-iris);
 }
 .footer-span-logo {
