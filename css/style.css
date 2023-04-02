@@ -291,8 +291,10 @@ body {
   color: var(--color-navy-blue);
 }
 .menu-link:hover {
+  color: #404bbf;
 }
 .menu-link:focus {
+  color: #404bbf;
 }
 .menu-list {
 }
