@@ -177,8 +177,15 @@
 /* Portfolio section */
 
 .portfolio-section {
+  background-color: #f4f4fd;
 }
 .portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--color-grey);
 }
 .portfolio-list {
 }
