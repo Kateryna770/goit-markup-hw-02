@@ -126,6 +126,9 @@ body {
 .header-link:hover {
   color: #404bbf;
 }
+.haeder-link:focus {
+  color: #404bbf;
+}
 .link {
   text-decoration: none;
 }
@@ -146,7 +149,11 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
-.contact-link {
+.contact-link:hover {
+  color: #404bbf;
+}
+.contact-link:focus {
+  color: #404bbf;
 }
 
 /* Hero section */
