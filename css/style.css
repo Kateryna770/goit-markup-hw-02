@@ -125,9 +125,10 @@ body {
 .header-link:hover {
   color: #404bbf;
 }
-.haeder-link:focus {
+.header-link:focus {
   color: #404bbf;
 }
+
 .link {
   text-decoration: none;
 }
