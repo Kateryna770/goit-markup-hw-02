@@ -116,6 +116,7 @@
   color: var(--color-iris);
 }
 .link {
+  text-decoration: none;
 }
 .header-studio {
 }
